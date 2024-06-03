@@ -1,7 +1,5 @@
 # Supply Chain Management Dashboard
 
-![Supply Chain Management Dashboard](dashboard_screenshot.png)
-
 ## Introduction
 
 Welcome to the Supply Chain Management Dashboard, a comprehensive tool designed to empower supply chain managers and teams with insights necessary for effective supply chain management.
